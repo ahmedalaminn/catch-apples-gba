@@ -1,4 +1,4 @@
-Falling Apples
+# Catching Apples - Game Boy Advance Emulator
 
 This is a simple mGBA game where the player controls a basket to catch falling apples and earn points.
 
