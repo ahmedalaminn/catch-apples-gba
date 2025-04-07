@@ -1,4 +1,4 @@
-# GBA Falling Apple Game
+Falling Apples
 
 This is a simple mGBA game where the player controls a basket to catch falling apples and earn points.
 
